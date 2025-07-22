@@ -8,7 +8,6 @@
   </ul>
   <p>The system transforms flat employee data into a structured organizational chart with proper reporting relationships.</p>
 </div>
-
 <style>
 .project-description {
   font-family: Arial, sans-serif;
